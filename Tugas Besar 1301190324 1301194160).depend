@@ -1,0 +1,156 @@
+# depslib dependency file v1.0
+1587550821 source:k:\my drive\semester 2\struktur data\@tugas besar\tugas besar 1301190324 1301194160)\dokter.cpp
+	"ADT.h"
+
+1587545802 k:\my drive\semester 2\struktur data\@tugas besar\tugas besar 1301190324 1301194160)\adt.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<windows.h>
+	"conio.h"
+	"stdlib.h"
+
+1587551998 source:k:\my drive\semester 2\struktur data\@tugas besar\tugas besar 1301190324 1301194160)\main.cpp
+	"ADT.h"
+
+1587551367 source:k:\my drive\semester 2\struktur data\@tugas besar\tugas besar 1301190324 1301194160)\pasien.cpp
+	"ADT.h"
+
+1587549400 source:k:\my drive\semester 2\struktur data\@tugas besar\tugas besar 1301190324 1301194160)\relasi.cpp
+	"ADT.h"
+
+1585765197 source:d:\tubes\tugas besar 1301190324 1301194160)\main.cpp
+	"ADT.h"
+
+1585769299 d:\tubes\tugas besar 1301190324 1301194160)\adt.h
+	<iostream>
+
+1585768719 source:d:\tubes\tugas besar 1301190324 1301194160)\relasi.cpp
+	"ADT.h"
+
+1585770995 source:d:\tubes\tugas besar 1301190324 1301194160)\dokter.cpp
+	"ADT.h"
+
+1585762304 source:d:\tubes\tugas besar 1301190324 1301194160)\pasien.cpp
+	"ADT.h"
+
+1585770995 source:c:\users\kaeno\desktop\tugas besar 1301190324 1301194160)\dokter.cpp
+	"ADT.h"
+
+1585771469 c:\users\kaeno\desktop\tugas besar 1301190324 1301194160)\adt.h
+	<iostream>
+
+1585768719 source:c:\users\kaeno\desktop\tugas besar 1301190324 1301194160)\relasi.cpp
+	"ADT.h"
+
+1586277726 source:d:\tubes\part2\tugas besar 1301190324 1301194160)\main.cpp
+	"ADT.h"
+
+1586276392 d:\tubes\part2\tugas besar 1301190324 1301194160)\adt.h
+	<iostream>
+	<string>
+
+1586277590 source:d:\tubes\part2\tugas besar 1301190324 1301194160)\pasien.cpp
+	"ADT.h"
+
+1586277726 source:d:\tubes\part2\tugas besar 1301190324 1301194160)\relasi.cpp
+	"ADT.h"
+
+1586274867 source:d:\tubes\part2\tugas besar 1301190324 1301194160)\dokter.cpp
+	"ADT.h"
+
+1587551975 source:k:\my drive\semester 2\struktur data\@tugas besar\tugas besar 1301190324 1301194160)\interface.cpp
+	"ADT.h"
+
+1587144567 source:k:\my drive\semester 2\struktur data\@tugas besar\test\tugas besar 1301190324 1301194160)\dokter.cpp
+	"ADT.h"
+
+1587216425 k:\my drive\semester 2\struktur data\@tugas besar\test\tugas besar 1301190324 1301194160)\adt.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<windows.h>
+	"conio.h"
+	"stdlib.h"
+
+1587216994 source:k:\my drive\semester 2\struktur data\@tugas besar\test\tugas besar 1301190324 1301194160)\interface.cpp
+	"ADT.h"
+
+1587144298 source:k:\my drive\semester 2\struktur data\@tugas besar\test\tugas besar 1301190324 1301194160)\main.cpp
+	"ADT.h"
+
+1587217682 source:k:\my drive\semester 2\struktur data\@tugas besar\test\tugas besar 1301190324 1301194160)\pasien.cpp
+	"ADT.h"
+
+1587217429 source:k:\my drive\semester 2\struktur data\@tugas besar\test\tugas besar 1301190324 1301194160)\relasi.cpp
+	"ADT.h"
+
+1587463199 source:c:\users\acer\downloads\tugas besar 1301190324 1301194160)\dokter.cpp
+	"ADT.h"
+
+1587464135 c:\users\acer\downloads\tugas besar 1301190324 1301194160)\adt.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<windows.h>
+	"conio.h"
+	"stdlib.h"
+
+1587464184 source:c:\users\acer\downloads\tugas besar 1301190324 1301194160)\interface.cpp
+	"ADT.h"
+
+1587144298 source:c:\users\acer\downloads\tugas besar 1301190324 1301194160)\main.cpp
+	"ADT.h"
+
+1587464754 source:c:\users\acer\downloads\tugas besar 1301190324 1301194160)\pasien.cpp
+	"ADT.h"
+
+1587464305 source:c:\users\acer\downloads\tugas besar 1301190324 1301194160)\relasi.cpp
+	"ADT.h"
+
+1587472276 source:c:\users\acer\downloads\tubes hampir\dokter.cpp
+	"ADT.h"
+
+1587472491 c:\users\acer\downloads\tubes hampir\adt.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<windows.h>
+	"conio.h"
+	"stdlib.h"
+
+1587144298 source:c:\users\acer\downloads\tubes hampir\main.cpp
+	"ADT.h"
+
+1587475192 source:c:\users\acer\downloads\tubes hampir\relasi.cpp
+	"ADT.h"
+
+1587471744 source:c:\users\acer\downloads\tubes hampir\interface.cpp
+	"ADT.h"
+
+1587471744 source:c:\users\acer\downloads\tubes hampir\pasien.cpp
+	"ADT.h"
+
+1587550821 source:d:\c++\tugas besar 1301190324 1301194160)\dokter.cpp
+	"ADT.h"
+
+1587781107 d:\c++\tugas besar 1301190324 1301194160)\adt.h
+	<iostream>
+	<string>
+	<stdio.h>
+	<windows.h>
+	"conio.h"
+	"stdlib.h"
+
+1587551975 source:d:\c++\tugas besar 1301190324 1301194160)\interface.cpp
+	"ADT.h"
+
+1587551998 source:d:\c++\tugas besar 1301190324 1301194160)\main.cpp
+	"ADT.h"
+
+1587551367 source:d:\c++\tugas besar 1301190324 1301194160)\pasien.cpp
+	"ADT.h"
+
+1587549400 source:d:\c++\tugas besar 1301190324 1301194160)\relasi.cpp
+	"ADT.h"
+
