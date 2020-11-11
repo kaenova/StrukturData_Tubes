@@ -1,10 +1,10 @@
 
 # Tubes_StrukturData
-Kaenova Mahendra Auditama <sup>1</sup>
-Moh. Adi Ikfini<sup>2</sup>
-<sup>1</sup>kaenova@student.telkomuniversity.ac.id
-<sup>2</sup>adiikfini@365.telkomuniversity.ac.id
-Informatics Engineering, Telkom University, Indonesia
+Kaenova Mahendra Auditama <sup>1</sup><br>
+Moh. Adi Ikfini<sup>2</sup><br>
+<sup>1</sup>kaenova@student.telkomuniversity.ac.id<br>
+<sup>2</sup>adiikfini@365.telkomuniversity.ac.id<br>
+Informatics Engineering, Telkom University, Indonesia<br>
 2019
 
 ## [English]
@@ -24,7 +24,7 @@ as well as some functionality such as:
  8. Displays the doctor's data who treat a particular patient.
  9. Displays data of doctors who are not busy and who are the busiest.
 
-To try the program, compile and build the file. The main file is "main.cpp"
+To try the program, compile and build the file. The main file is "main.cpp"<br>
 We also provide workspace for CodeBlock IDE.
 
 ## [Bahasa Indonesia]
@@ -43,5 +43,5 @@ serta beberapa fungsionalitas seperti:
  8. Menampilkan data dokter yang menangani seorang pasien tertentu.
  9. Menampilkan data dokter yang tidak sibuk dan yang paling sibuk.
 
-Untuk mencoba silkahkan untuk mengcompile dan membuild file "main.cpp"
+Untuk mencoba silkahkan untuk mengcompile dan membuild file "main.cpp"<br>
 Kami juga menyediakan file untuk IDE CodeBlock.
