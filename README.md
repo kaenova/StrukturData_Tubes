@@ -3,7 +3,7 @@
 Kaenova Mahendra Auditama <sup>1</sup><br>
 Moh. Adi Ikfini<sup>2</sup><br>
 <sup>1</sup>kaenova@student.telkomuniversity.ac.id<br>
-<sup>2</sup>adiikfini@365.telkomuniversity.ac.id<br>
+<sup>2</sup>adiikfini@student.telkomuniversity.ac.id<br>
 Informatics Engineering, Telkom University, Indonesia<br>
 2019
 
