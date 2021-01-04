@@ -45,3 +45,5 @@ serta beberapa fungsionalitas seperti:
 
 Untuk mencoba silkahkan untuk mengcompile dan membuild file "main.cpp"<br>
 Kami juga menyediakan file untuk IDE CodeBlock.
+
+<img  align= "right" src="https://cdn.discordapp.com/attachments/527433841690804224/791558706508726292/Pre-comp-3.gif"  width="200">
